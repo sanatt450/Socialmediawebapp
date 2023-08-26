@@ -1,0 +1,20 @@
+# Dependency directories
+/node_modules
+/npm-debug.log*
+/yarn-error.log*
+
+# Testing and build directories
+/coverage
+/.nyc_output
+/.jest
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# OS generated files
+.DS_Store
+Thumbs.db
